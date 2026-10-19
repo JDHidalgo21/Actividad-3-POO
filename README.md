@@ -1,4 +1,4 @@
-# Actividad-3-POO
+# Actividad 3 - Juan David Hidalgo - POO
 - Universidad Nacional de Colombia - Sede Medellín
 - Juan David Hidalgo Navarro
 - Ciencias de la Computación
